@@ -5,12 +5,28 @@
     <link>https://www.senthilpurushwalkam.com/publication/</link>
       <atom:link href="https://www.senthilpurushwalkam.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.senthilpurushwalkam.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.senthilpurushwalkam.com/publication/</link>
     </image>
+    
+    <item>
+      <title>The Challenges of Continuous Self-Supervised Learning</title>
+      <link>https://www.senthilpurushwalkam.com/publication/continuousssl/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/continuousssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Unsurprising Effectiveness of Pre-trained Vision Models for Control</title>
+      <link>https://www.senthilpurushwalkam.com/publication/visualrepforrl/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/visualrepforrl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Functional Correspondence Problem</title>
