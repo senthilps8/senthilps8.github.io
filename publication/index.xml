@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Senthil Purushwalkam (CMU)</title>
+    <link>https://www.senthilpurushwalkam.com/publication/</link>
+      <atom:link href="https://www.senthilpurushwalkam.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.senthilpurushwalkam.com/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://www.senthilpurushwalkam.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Functional Correspondence Problem</title>
+      <link>https://www.senthilpurushwalkam.com/publication/functional/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Visual Floorplan Reconstruction</title>
+      <link>https://www.senthilpurushwalkam.com/publication/avmap/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/avmap/</guid>
+      <description>&lt;h1 id=&#34;interior-prediction-videos&#34;&gt;Interior Prediction Videos&lt;/h1&gt;
+&lt;p&gt;Here we present visualizations of interior maps being constructed online as the camera (cone) moves through environments.&lt;/p&gt;
+&lt;p&gt;As explained in the paper, we consider two settings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Environment Generated Audio&lt;/strong&gt;: In this setting, the sounds are produced by objects/people in the environments. For example, a person typing on a keyboard in the office, a dishwasher in the kitchen, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Device Generated Audio&lt;/strong&gt;: In this setting, the recording device emits a sound (frequency sweep) at each time step.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;environment-generated-all-room-audio-setting&#34;&gt;Environment Generated All Room Audio Setting&lt;/h2&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wRslVfd1hOI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;device-generated-audio-setting&#34;&gt;Device Generated Audio Setting&lt;/h2&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/i69iC4DVJsc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases</title>
+      <link>https://www.senthilpurushwalkam.com/publication/demystifyssl/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/demystifyssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Videos in Space and Time</title>
+      <link>https://www.senthilpurushwalkam.com/publication/alignvideos/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/alignvideos/</guid>
+      <description>&lt;h1 id=&#34;qualitative-results-on-penn-action&#34;&gt;Qualitative Results on Penn Action&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;baseball_pitch_0027.jpg&#34; alt=&#34;penn temporal alignment1&#34;&gt;
+&lt;img src=&#34;golf_swing_0347.jpg&#34; alt=&#34;penn temporal alignment2&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;qualitative-results-on-pouring-dataset&#34;&gt;Qualitative Results on Pouring Dataset&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;pouringalign.png&#34; alt=&#34;pouring temporal alignment&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;qualitative-results-on-epic-kitchens&#34;&gt;Qualitative Results on EPIC Kitchens&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;epic.png&#34; alt=&#34;epic temporal alignment&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Task-Driven Modular Networks for Zero-Shot Compositional Learning</title>
+      <link>https://www.senthilpurushwalkam.com/publication/compositional/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/compositional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounce and Learn: Modeling Scene Dynamics with Real-World Bounces</title>
+      <link>https://www.senthilpurushwalkam.com/publication/bouncelearn/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/bouncelearn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose from Action: Unsupervised Learning of Pose Features based on Motion</title>
+      <link>https://www.senthilpurushwalkam.com/publication/poseaction/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/poseaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles</title>
+      <link>https://www.senthilpurushwalkam.com/publication/smcl/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/smcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why M Heads are Better than One: Training a Diverse Ensemble of Deep Networks</title>
+      <link>https://www.senthilpurushwalkam.com/publication/mheads/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/mheads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining the Best of Graphical Models and ConvNets for Semantic Segmentation</title>
+      <link>https://www.senthilpurushwalkam.com/publication/gmcnn/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/gmcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Segmentation of Adipose Tissue from Thigh Magnetic Resonance Images</title>
+      <link>https://www.senthilpurushwalkam.com/publication/mriseg/</link>
+      <pubDate>Sun, 15 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/mriseg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
