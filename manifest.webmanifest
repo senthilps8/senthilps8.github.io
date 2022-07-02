@@ -2,8 +2,8 @@
   "name": "Senthil Purushwalkam (CMU)",
   "short_name": "Senthil Purushwalkam (CMU)",
   "lang": "en-us",
-  "theme_color": "#C9F2FF",
-  "background_color": "#C9F2FF",
+  "theme_color": "hsl(339, 90%, 68%)",
+  "background_color": "hsl(339, 90%, 68%)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
