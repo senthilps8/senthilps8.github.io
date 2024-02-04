@@ -17,8 +17,18 @@
       <link>https://www.senthilpurushwalkam.com/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://www.senthilpurushwalkam.com/authors/admin/</guid>
-      <description>&lt;p&gt;My research primarily focuses on problems in Computer Vision. I am particulary interested in investigating approaches for &lt;span class=&#34;bold&#34;&gt;locating and identifying semantic concepts&lt;/span&gt; (objects, parts, actions, and other useful human concepts) in visual signals, while &lt;span class=&#34;bold&#34;&gt;minimizing human effort&lt;/span&gt; (supervision) and &lt;span class=&#34;bold&#34;&gt;scaling up the learned visual taxonomies&lt;/span&gt; (vocabulary size).&lt;/p&gt;
-&lt;p&gt;I received a PhD in Robotics from Carnegie Mellon University, where I was advised by &lt;a href=&#34;http://www.cs.cmu.edu/~abhinavg/&#34;&gt;Abhinav Gupta&lt;/a&gt;. Some of the problems I have worked on in the past include self-supervised representation learning, few-shot &amp;amp; zero-shot learning,  object detection, semantic segmentation, visual physics modeling and 3D modeling via audio-visual cues. If you are interested in any of these topics or my recent work, checkout my projects below!&lt;/p&gt;
+      <description>&lt;!-- My research primarily focuses on problems in Computer Vision. I am particulary interested in investigating approaches for &lt;span class=&#34;bold&#34;&gt;locating and identifying semantic concepts&lt;/span&gt; (objects, parts, actions, and other useful human concepts) in visual signals, while &lt;span class=&#34;bold&#34;&gt;minimizing human effort&lt;/span&gt; (supervision) and &lt;span class=&#34;bold&#34;&gt;scaling up the learned visual taxonomies&lt;/span&gt; (vocabulary size). 
+
+I received a PhD in Robotics from Carnegie Mellon University, where I was advised by [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/). Some of the problems I have worked on in the past include self-supervised representation learning, few-shot &amp; zero-shot learning,  object detection, semantic segmentation, visual physics modeling and 3D modeling via audio-visual cues. If you are interested in any of these topics or my recent work, checkout my projects below! 
+--&gt;
+&lt;p&gt;Hello!
+I am an AI Research Scientist at Salesforce Research. My current research focuses on building state of the art generative models for Computer Vision and NLP. I am currently interested in the following broad research directions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improving the quality and controllability of image generation models&lt;/li&gt;
+&lt;li&gt;Adaptation of LLMs using real and synthetic feedback data&lt;/li&gt;
+&lt;li&gt;Developing an interface between visual data and language through multi-modal LLMs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before joining Salesforce, I received a PhD from Carnegie Mellon University working with &lt;a href=&#34;http://www.cs.cmu.edu/~abhinavg/&#34;&gt;Prof. Abhinav Gupta&lt;/a&gt;. In the past, I have worked on a very diverse range of topics in Computer Vision, Robotics and NLP. Check out my papers below and reach out to me if you would like to chat!&lt;/p&gt;
 </description>
     </item>
     
