@@ -5,12 +5,28 @@
     <link>https://www.senthilpurushwalkam.com/publication_types/1/</link>
       <atom:link href="https://www.senthilpurushwalkam.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Nov 2023 00:16:37 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 00:16:37 -0800</lastBuildDate>
     <image>
       <url>https://www.senthilpurushwalkam.com/img/icon-192.png</url>
       <title>1</title>
       <link>https://www.senthilpurushwalkam.com/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models</title>
+      <link>https://www.senthilpurushwalkam.com/publication/bootpig/</link>
+      <pubDate>Tue, 09 Jan 2024 00:16:37 -0800</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/bootpig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Model Alignment Using Direct Preference Optimization</title>
+      <link>https://www.senthilpurushwalkam.com/publication/diffdpo/</link>
+      <pubDate>Sat, 09 Dec 2023 00:16:37 -0800</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/diffdpo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image</title>
