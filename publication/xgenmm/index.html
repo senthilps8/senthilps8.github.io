@@ -28,11 +28,10 @@
   
     
   
-  <meta name="description" content="Recent text-to-image generation models have demonstrated incredible success in generating images that faithfully follow input prompts. However, the requirement of using words to describe a desired concept provides limited control over the appearance of the generated concepts. In this work, we address this shortcoming by proposing an approach to enable personalization capabilities in existing text-to-image diffusion models. We propose a novel architecture (BootPIG) that allows a user to provide reference images of an object in order to guide the appearance of a concept in the generated images.
-The proposed BootPIG architecture makes minimal modifications to a pretrained text-to-image diffusion model and utilizes a separate UNet model to steer the generations toward the desired appearance. We introduce a training procedure that allows us to bootstrap personalization capabilities in the BootPIG architecture using data generated from pretrained text-to-image models, LLM chat agents, and image segmentation models. In contrast to existing methods that require several days of pretraining, the BootPIG architecture can be trained in approximately 1 hour. Experiments on the DreamBooth dataset demonstrate that BootPIG outperforms existing zero-shot methods while being comparable with test-time finetuning approaches. Through a user study, we validate the preference for BootPIG generations over existing methods both in maintaining fidelity to the reference object&#39;s appearance and aligning with textual prompts.">
+  <meta name="description" content="Open-source Multimodal LM, State-of-the-art under 5B parameters">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.senthilpurushwalkam.com/publication/bootpig/">
+  <link rel="alternate" hreflang="en-us" href="https://www.senthilpurushwalkam.com/publication/xgenmm/">
 
   
 
@@ -126,7 +125,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://www.senthilpurushwalkam.com/publication/bootpig/">
+  <link rel="canonical" href="https://www.senthilpurushwalkam.com/publication/xgenmm/">
 
   
   
@@ -138,16 +137,15 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Senthil Purushwalkam (CMU)">
-  <meta property="og:url" content="https://www.senthilpurushwalkam.com/publication/bootpig/">
-  <meta property="og:title" content="BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models | Senthil Purushwalkam (CMU)">
-  <meta property="og:description" content="Recent text-to-image generation models have demonstrated incredible success in generating images that faithfully follow input prompts. However, the requirement of using words to describe a desired concept provides limited control over the appearance of the generated concepts. In this work, we address this shortcoming by proposing an approach to enable personalization capabilities in existing text-to-image diffusion models. We propose a novel architecture (BootPIG) that allows a user to provide reference images of an object in order to guide the appearance of a concept in the generated images.
-The proposed BootPIG architecture makes minimal modifications to a pretrained text-to-image diffusion model and utilizes a separate UNet model to steer the generations toward the desired appearance. We introduce a training procedure that allows us to bootstrap personalization capabilities in the BootPIG architecture using data generated from pretrained text-to-image models, LLM chat agents, and image segmentation models. In contrast to existing methods that require several days of pretraining, the BootPIG architecture can be trained in approximately 1 hour. Experiments on the DreamBooth dataset demonstrate that BootPIG outperforms existing zero-shot methods while being comparable with test-time finetuning approaches. Through a user study, we validate the preference for BootPIG generations over existing methods both in maintaining fidelity to the reference object&#39;s appearance and aligning with textual prompts."><meta property="og:image" content="https://www.senthilpurushwalkam.com/publication/bootpig/featured.png">
-  <meta property="twitter:image" content="https://www.senthilpurushwalkam.com/publication/bootpig/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://www.senthilpurushwalkam.com/publication/xgenmm/">
+  <meta property="og:title" content="xGen-MM (BLIP-3): A Family of Open Large Multimodal Models | Senthil Purushwalkam (CMU)">
+  <meta property="og:description" content="Open-source Multimodal LM, State-of-the-art under 5B parameters"><meta property="og:image" content="https://www.senthilpurushwalkam.com/publication/xgenmm/featured.png">
+  <meta property="twitter:image" content="https://www.senthilpurushwalkam.com/publication/xgenmm/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2017-01-02T00:16:37-08:00">
+      <meta property="article:published_time" content="2017-08-23T00:14:00-07:00">
     
-    <meta property="article:modified_time" content="2024-01-09T00:16:37-08:00">
+    <meta property="article:modified_time" content="2024-08-16T00:14:00-07:00">
   
 
   
@@ -180,16 +178,16 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.senthilpurushwalkam.com/publication/bootpig/"
+    "@id": "https://www.senthilpurushwalkam.com/publication/xgenmm/"
   },
-  "headline": "BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models",
+  "headline": "xGen-MM (BLIP-3): A Family of Open Large Multimodal Models",
   
   "image": [
-    "https://www.senthilpurushwalkam.com/publication/bootpig/featured.png"
+    "https://www.senthilpurushwalkam.com/publication/xgenmm/featured.png"
   ],
   
-  "datePublished": "2017-01-02T00:16:37-08:00",
-  "dateModified": "2024-01-09T00:16:37-08:00",
+  "datePublished": "2017-08-23T00:14:00-07:00",
+  "dateModified": "2024-08-16T00:14:00-07:00",
   
   "publisher": {
     "@type": "Organization",
@@ -199,7 +197,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       "url": "https://www.senthilpurushwalkam.com/img/icon-512.png"
     }
   },
-  "description": "Recent text-to-image generation models have demonstrated incredible success in generating images that faithfully follow input prompts. However, the requirement of using words to describe a desired concept provides limited control over the appearance of the generated concepts. In this work, we address this shortcoming by proposing an approach to enable personalization capabilities in existing text-to-image diffusion models. We propose a novel architecture (BootPIG) that allows a user to provide reference images of an object in order to guide the appearance of a concept in the generated images.\nThe proposed BootPIG architecture makes minimal modifications to a pretrained text-to-image diffusion model and utilizes a separate UNet model to steer the generations toward the desired appearance. We introduce a training procedure that allows us to bootstrap personalization capabilities in the BootPIG architecture using data generated from pretrained text-to-image models, LLM chat agents, and image segmentation models. In contrast to existing methods that require several days of pretraining, the BootPIG architecture can be trained in approximately 1 hour. Experiments on the DreamBooth dataset demonstrate that BootPIG outperforms existing zero-shot methods while being comparable with test-time finetuning approaches. Through a user study, we validate the preference for BootPIG generations over existing methods both in maintaining fidelity to the reference object's appearance and aligning with textual prompts."
+  "description": "Open-source Multimodal LM, State-of-the-art under 5B parameters"
 }
 </script>
 
@@ -213,7 +211,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
   
 
 
-  <title>BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models | Senthil Purushwalkam (CMU)</title>
+  <title>xGen-MM (BLIP-3): A Family of Open Large Multimodal Models | Senthil Purushwalkam (CMU)</title>
 
 </head>
 
@@ -467,7 +465,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
 
 
 <div class="article-container pt-3">
-  <h1>BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models</h1>
+  <h1>xGen-MM (BLIP-3): A Family of Open Large Multimodal Models</h1>
 
   
 
@@ -482,7 +480,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
   
   
   <div>
-    <span><a href="../../"  target="_blank">Senthil Purushwalkam</a></span>, <span><a href="https://scholar.google.com/citations?user=MYRUJkUAAAAJ&amp;hl=en"  target="_blank">Akash Gokul</a></span>, <span><a href="https://raihanjoty.github.io/"  target="_blank">Shafiq Joty</a></span>, <span><a href="https://web.mit.edu/naik/www/"  target="_blank">Nikhil Naik</a></span>
+    <span>Le Xue</span>, <span>Manli Shu</span>, <span>Anas Awadalla</span>, <span>Jun Wang</span>, <span>An Yan</span>, <span><a href="../../"  target="_blank">Senthil Purushwalkam</a></span>, <span>Honglu Zhou</span>, <span>Viraj Prabhu</span>, <span>Yutong Dai</span>, <span>Michael S Ryoo</span>, <span>Shrikant Kendre</span>, <span>Jieyu Zhang</span>, <span>Can Qin</span>, <span>Shu Zhang</span>, <span>Chia-Chih Chen</span>, <span>Ning Yu</span>, <span>Juntao Tan</span>, <span>Tulika Manoj Awalgaonkar</span>, <span>Shelby Heinecke</span>, <span>Huan Wang</span>, <span>Yejin Choi</span>, <span>Ludwig Schmidt</span>, <span>Zeyuan Chen</span>, <span>Silvio Savarese</span>, <span>Juan Carlos Niebles</span>, <span>Caiming Xiong</span>, <span>Ran Xu</span>
   </div>
   
   
@@ -513,7 +511,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://www.senthilpurushwalkam.com/publication/bootpig/&amp;text=BootPIG:%20Bootstrapping%20Zero-shot%20Personalized%20Image%20Generation%20Capabilities%20in%20Pretrained%20Diffusion%20Models" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://www.senthilpurushwalkam.com/publication/xgenmm/&amp;text=xGen-MM%20%28BLIP-3%29:%20A%20Family%20of%20Open%20Large%20Multimodal%20Models" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -526,7 +524,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://www.senthilpurushwalkam.com/publication/bootpig/&amp;t=BootPIG:%20Bootstrapping%20Zero-shot%20Personalized%20Image%20Generation%20Capabilities%20in%20Pretrained%20Diffusion%20Models" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://www.senthilpurushwalkam.com/publication/xgenmm/&amp;t=xGen-MM%20%28BLIP-3%29:%20A%20Family%20of%20Open%20Large%20Multimodal%20Models" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -539,7 +537,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       
       
       <li>
-        <a href="mailto:?subject=BootPIG:%20Bootstrapping%20Zero-shot%20Personalized%20Image%20Generation%20Capabilities%20in%20Pretrained%20Diffusion%20Models&amp;body=https://www.senthilpurushwalkam.com/publication/bootpig/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=xGen-MM%20%28BLIP-3%29:%20A%20Family%20of%20Open%20Large%20Multimodal%20Models&amp;body=https://www.senthilpurushwalkam.com/publication/xgenmm/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -552,7 +550,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://www.senthilpurushwalkam.com/publication/bootpig/&amp;title=BootPIG:%20Bootstrapping%20Zero-shot%20Personalized%20Image%20Generation%20Capabilities%20in%20Pretrained%20Diffusion%20Models" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://www.senthilpurushwalkam.com/publication/xgenmm/&amp;title=xGen-MM%20%28BLIP-3%29:%20A%20Family%20of%20Open%20Large%20Multimodal%20Models" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -565,7 +563,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=BootPIG:%20Bootstrapping%20Zero-shot%20Personalized%20Image%20Generation%20Capabilities%20in%20Pretrained%20Diffusion%20Models%20https://www.senthilpurushwalkam.com/publication/bootpig/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=xGen-MM%20%28BLIP-3%29:%20A%20Family%20of%20Open%20Large%20Multimodal%20Models%20https://www.senthilpurushwalkam.com/publication/xgenmm/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -578,7 +576,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://www.senthilpurushwalkam.com/publication/bootpig/&amp;title=BootPIG:%20Bootstrapping%20Zero-shot%20Personalized%20Image%20Generation%20Capabilities%20in%20Pretrained%20Diffusion%20Models" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://www.senthilpurushwalkam.com/publication/xgenmm/&amp;title=xGen-MM%20%28BLIP-3%29:%20A%20Family%20of%20Open%20Large%20Multimodal%20Models" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -603,8 +601,6 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
 
 
 
-  
-
 
 
 <div class="btn-links mb-3">
@@ -624,17 +620,12 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2401.13974.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.arxiv.org/pdf/2408.08872" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/bootpig/cite.bib">
-  Cite
-</button>
-
 
 
 
@@ -659,9 +650,9 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://huggingface.co/collections/Salesforce/xgen-mm-1-models-662971d6cecbf3a7f80ecc2e" target="_blank" rel="noopener">
     
-    Code (coming soon...)
+    Models
   </a>
 
 
@@ -672,9 +663,9 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
 
 
     
-	    <div class="article-container article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 466px;">
+	    <div class="article-container article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 515px;">
 	    <div style="position: relative">
-		    <img src="/publication/bootpig/featured_huea5c317c325883430d2676fb008f2f64_10047470_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+		    <img src="/publication/xgenmm/featured_hu232943867502d10a3757036a2b8318be_193061_720x0_resize_lanczos_3.png" alt="" class="featured-image">
     
     
   </div>
@@ -686,8 +677,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Recent text-to-image generation models have demonstrated incredible success in generating images that faithfully follow input prompts. However, the requirement of using words to describe a desired concept provides limited control over the appearance of the generated concepts. In this work, we address this shortcoming by proposing an approach to enable personalization capabilities in existing text-to-image diffusion models. We propose a novel architecture (BootPIG) that allows a user to provide reference images of an object in order to guide the appearance of a concept in the generated images.
-The proposed BootPIG architecture makes minimal modifications to a pretrained text-to-image diffusion model and utilizes a separate UNet model to steer the generations toward the desired appearance. We introduce a training procedure that allows us to bootstrap personalization capabilities in the BootPIG architecture using data generated from pretrained text-to-image models, LLM chat agents, and image segmentation models. In contrast to existing methods that require several days of pretraining, the BootPIG architecture can be trained in approximately 1 hour. Experiments on the DreamBooth dataset demonstrate that BootPIG outperforms existing zero-shot methods while being comparable with test-time finetuning approaches. Through a user study, we validate the preference for BootPIG generations over existing methods both in maintaining fidelity to the reference object&rsquo;s appearance and aligning with textual prompts.</p>
+    <p class="pub-abstract">This report introduces xGen-MM (also known as BLIP-3), a framework for developing Large Multimodal Models (LMMs). The framework comprises meticulously curated datasets, a training recipe, model architectures, and a resulting suite of LMMs. xGen-MM, short for xGen-MultiModal, expands the Salesforce xGen initiative on foundation AI models. Our models undergo rigorous evaluation across a range of tasks, including both single and multi-image benchmarks. Our pre-trained base model exhibits strong in-context learning capabilities and the instruction-tuned model demonstrates competitive performance among open-source LMMs with similar model sizes. In addition, we introduce a safety-tuned model with DPO, aiming to mitigate harmful behaviors such as hallucinations and improve safety. We open-source our models, curated large-scale datasets, and our fine-tuning codebase to facilitate further advancements in LMM research. Associated resources will be available on our project page above.</p>
     
 
     
@@ -717,7 +707,7 @@ The proposed BootPIG architecture makes minimal modifications to a pretrained te
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><span style="color:black">arXiv preprint arXiv:2311.12908 (2023)</span></div>
+          <div class="col-12 col-md-9"><span style="color:black">arXiv preprint arXiv:2408.08872 (2024)</span></div>
         </div>
       </div>
       <div class="col-md-1"></div>
