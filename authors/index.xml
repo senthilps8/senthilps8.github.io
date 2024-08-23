@@ -17,11 +17,7 @@
       <link>https://www.senthilpurushwalkam.com/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://www.senthilpurushwalkam.com/authors/admin/</guid>
-      <description>&lt;!-- My research primarily focuses on problems in Computer Vision. I am particulary interested in investigating approaches for &lt;span class=&#34;bold&#34;&gt;locating and identifying semantic concepts&lt;/span&gt; (objects, parts, actions, and other useful human concepts) in visual signals, while &lt;span class=&#34;bold&#34;&gt;minimizing human effort&lt;/span&gt; (supervision) and &lt;span class=&#34;bold&#34;&gt;scaling up the learned visual taxonomies&lt;/span&gt; (vocabulary size). 
-
-I received a PhD in Robotics from Carnegie Mellon University, where I was advised by [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/). Some of the problems I have worked on in the past include self-supervised representation learning, few-shot &amp; zero-shot learning,  object detection, semantic segmentation, visual physics modeling and 3D modeling via audio-visual cues. If you are interested in any of these topics or my recent work, checkout my projects below! 
---&gt;
-&lt;p&gt;Hello!
+      <description>&lt;p&gt;Hello!
 I am a Senior AI Research Scientist at Salesforce, specializing in Computer Vision and NLP.&lt;/p&gt;
 &lt;p&gt;At Salesforce, my work includes:&lt;/p&gt;
 &lt;ul&gt;
