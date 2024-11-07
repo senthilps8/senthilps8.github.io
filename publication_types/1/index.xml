@@ -5,12 +5,36 @@
     <link>https://www.senthilpurushwalkam.com/publication_types/1/</link>
       <atom:link href="https://www.senthilpurushwalkam.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Aug 2024 00:14:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2024 00:14:00 -0700</lastBuildDate>
     <image>
       <url>https://www.senthilpurushwalkam.com/img/icon-192.png</url>
       <title>1</title>
       <link>https://www.senthilpurushwalkam.com/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Trust but Verify: Programmatic VLM Evaluation in the Wild</title>
+      <link>https://www.senthilpurushwalkam.com/publication/prove/</link>
+      <pubDate>Thu, 17 Oct 2024 00:14:00 -0700</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/prove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FaithEval: Can Your Language Model Stay Faithful to Context, Even If &#34;The Moon is Made of Marshmallows&#34;</title>
+      <link>https://www.senthilpurushwalkam.com/publication/faitheval/</link>
+      <pubDate>Tue, 08 Oct 2024 00:14:00 -0700</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/faitheval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFR-RAG: Towards Contextually Faithful LLMs</title>
+      <link>https://www.senthilpurushwalkam.com/publication/sfr_rag/</link>
+      <pubDate>Mon, 16 Sep 2024 00:14:00 -0700</pubDate>
+      <guid>https://www.senthilpurushwalkam.com/publication/sfr_rag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations</title>
@@ -109,12 +133,12 @@
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://www.senthilpurushwalkam.com/publication/alignvideos/</guid>
       <description>&lt;h1 id=&#34;qualitative-results-on-penn-action&#34;&gt;Qualitative Results on Penn Action&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;baseball_pitch_0027.jpg&#34; alt=&#34;penn temporal alignment1&#34;&gt;
-&lt;img src=&#34;golf_swing_0347.jpg&#34; alt=&#34;penn temporal alignment2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;penn temporal alignment1&#34; src=&#34;https://www.senthilpurushwalkam.com/publication/alignvideos/baseball_pitch_0027.jpg&#34;&gt;
+&lt;img alt=&#34;penn temporal alignment2&#34; src=&#34;https://www.senthilpurushwalkam.com/publication/alignvideos/golf_swing_0347.jpg&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;qualitative-results-on-pouring-dataset&#34;&gt;Qualitative Results on Pouring Dataset&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;pouringalign.png&#34; alt=&#34;pouring temporal alignment&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;pouring temporal alignment&#34; src=&#34;https://www.senthilpurushwalkam.com/publication/alignvideos/pouringalign.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;qualitative-results-on-epic-kitchens&#34;&gt;Qualitative Results on EPIC Kitchens&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;epic.png&#34; alt=&#34;epic temporal alignment&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;epic temporal alignment&#34; src=&#34;https://www.senthilpurushwalkam.com/publication/alignvideos/epic.png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
